@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Apply styling to header element */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,6 +16,7 @@ body {
     color: #ffffff;
 }
 
+/*  */
 .header h1 {
     display: inline-block;
     font-size: 48px;
