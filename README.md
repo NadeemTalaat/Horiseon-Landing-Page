@@ -6,6 +6,9 @@ Through this web app, I was able to learn more about semantic HTML structuring, 
 ## Installation
 
 Load index.html file to access landing page. CSS styling is external but linked within index.html page.
+
+![Page Screenshot](./assets/images/Screenshot.jpeg/)
+
 ## Usage
 This is mainly a site for information (reading) purposes, but the links at the top right of the page can be used to quickly access sections of the content of the page.
 ## Credits
