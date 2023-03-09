@@ -16,7 +16,7 @@ Page can alternatively be accessed [here](https://nadeemtalaat.github.io/Horiseo
 ## Credits
 
 - Nadeem Talaat
-- UTOR Bootcamp
+- UTOR Bootcamp. Source code found [here](https://utoronto.bootcampcontent.com/utoronto-bootcamp/UTOR-VIRT-FSF-PT-02-2023-U-LOLC/-/tree/main/01-HTML-Git-CSS/02-Challenge).
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
